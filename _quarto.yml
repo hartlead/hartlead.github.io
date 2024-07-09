@@ -9,10 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - CSC_480/CSC_480.qmd
 
 format:
   html:
-    theme: slate
+    theme: darkly
     css: styles.css
     toc: true
 
