@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "UMU"
+  title: "Adam Hartley"
   navbar:
     left:
       - href: index.qmd
