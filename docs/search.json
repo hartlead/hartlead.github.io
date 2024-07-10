@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Adam Hartley",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "CSC_108/CSC_108.html",
     "href": "CSC_108/CSC_108.html",
     "title": "CSC 108",
@@ -28,10 +21,17 @@
     "text": "Grades will be determined from the following assignments:\n\nFive (5) programming assignments, worth 20 points each, total 100 points.\nFour (4) in-class quizzes, worth 30 points each, total 120 points\nTen (10) in-class labs, worth 10 points each, total 110 points\nOne exam worth 50 points"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Adam Hartley",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "about.html#courses-at-umu",
     "href": "about.html#courses-at-umu",
     "title": "Adam Hartley",
     "section": "Courses at UMU",
-    "text": "Courses at UMU\n\nCurrent Courses (Fall 2024):\n\nCSC 108: Introduction to Computer Programming\n[CSC 226: Intermediate Programming in C](CSC_226/CSC_226.qmd)\nCSC 480: Artificial Intelligence\nDSC 360: Big Data Analysis"
+    "text": "Courses at UMU\n\nCurrent Courses (Fall 2024):\n\nCSC 108: Introduction to Computer Programming\nCSC 226: Intermediate Programming in C\nCSC 480: Artificial Intelligence\nDSC 360: Big Data Analysis"
   }
 ]
