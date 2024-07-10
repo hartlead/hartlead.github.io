@@ -10,6 +10,9 @@ website:
         text: Home
       - about.qmd
       - CSC_480/CSC_480.qmd
+      - CSC_226/CSC_226.qmd
+      - CSC_108/CSC_108.qmd
+
 
 format:
   html:

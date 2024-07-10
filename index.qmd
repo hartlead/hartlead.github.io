@@ -1,8 +1,6 @@
 ---
-title: "UMU"
+title: "Adam Hartley"
 ---
-
-<https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1

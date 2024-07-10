@@ -1,9 +1,17 @@
 ---
-title: "About"
+title: "Adam Hartley"
 ---
 
-About this site
+### Instructor of Computer Science and Data Science at the University of Mount Union
 
-```{r}
-1 + 1
-```
+## Courses at UMU
+
+### Current Courses (Fall 2024):
+
+-   CSC 108: Introduction to Computer Programming
+
+-   \[CSC 226: Intermediate Programming in C\](CSC_226/CSC_226.qmd)
+
+-   CSC 480: Artificial Intelligence
+
+-   DSC 360: Big Data Analysis

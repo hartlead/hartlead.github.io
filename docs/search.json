@@ -2,15 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "UMU",
+    "title": "Adam Hartley",
     "section": "",
-    "text": "https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "CSC_108/CSC_108.html",
+    "href": "CSC_108/CSC_108.html",
+    "title": "CSC 108",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Day\nWeek\nTopic\nReading\nDue\n\n\n\n\n27\n1\nSyllabus, roadmap\n\n\n\n\n29\n1\nTutorial Intro\nK&R Ch 1\n\n\n\n3\n2\nBackground C\n\n\n\n\n5\n2\nTypes, operators, expressions\n\n\n\n\n10\n3\nControl Flow\n\n\n\n\n12\n3\nFunctions / Structures\n\n\n\n\n17\n4\nArrays\n\n\n\n\n19\n4\nProgram Structure\n\n\n\n\n24\n5\nDynamic Memory Management\n\n\n\n\n26\n5\nPointers and Functions\n\n\n\n\n1\n6\nPointers and Strings\n\n\n\n\n3\n6\nPointers and Arrays\n\n\n\n\n8\n7\nPointers and Structures\n\n\n\n\n10\n7\nMemory Issues\n\n\n\n\n15\n8\nWorkshop\n\n\n\n\n17\n8\nFinal Exam\n\n\n\n\n\n\n\n\nGrades will be determined from the following assignments:\n\nFive (5) programming assignments, worth 20 points each, total 100 points.\nFour (4) in-class quizzes, worth 30 points each, total 120 points\nTen (10) in-class labs, worth 10 points each, total 110 points\nOne exam worth 50 points"
+  },
+  {
+    "objectID": "CSC_108/CSC_108.html#tentative-outline",
+    "href": "CSC_108/CSC_108.html#tentative-outline",
+    "title": "CSC 108",
+    "section": "",
+    "text": "Day\nWeek\nTopic\nReading\nDue\n\n\n\n\n27\n1\nSyllabus, roadmap\n\n\n\n\n29\n1\nTutorial Intro\nK&R Ch 1\n\n\n\n3\n2\nBackground C\n\n\n\n\n5\n2\nTypes, operators, expressions\n\n\n\n\n10\n3\nControl Flow\n\n\n\n\n12\n3\nFunctions / Structures\n\n\n\n\n17\n4\nArrays\n\n\n\n\n19\n4\nProgram Structure\n\n\n\n\n24\n5\nDynamic Memory Management\n\n\n\n\n26\n5\nPointers and Functions\n\n\n\n\n1\n6\nPointers and Strings\n\n\n\n\n3\n6\nPointers and Arrays\n\n\n\n\n8\n7\nPointers and Structures\n\n\n\n\n10\n7\nMemory Issues\n\n\n\n\n15\n8\nWorkshop\n\n\n\n\n17\n8\nFinal Exam"
+  },
+  {
+    "objectID": "CSC_108/CSC_108.html#grading",
+    "href": "CSC_108/CSC_108.html#grading",
+    "title": "CSC 108",
+    "section": "",
+    "text": "Grades will be determined from the following assignments:\n\nFive (5) programming assignments, worth 20 points each, total 100 points.\nFour (4) in-class quizzes, worth 30 points each, total 120 points\nTen (10) in-class labs, worth 10 points each, total 110 points\nOne exam worth 50 points"
+  },
+  {
+    "objectID": "about.html#courses-at-umu",
+    "href": "about.html#courses-at-umu",
+    "title": "Adam Hartley",
+    "section": "Courses at UMU",
+    "text": "Courses at UMU\n\nCurrent Courses (Fall 2024):\n\nCSC 108: Introduction to Computer Programming\n[CSC 226: Intermediate Programming in C](CSC_226/CSC_226.qmd)\nCSC 480: Artificial Intelligence\nDSC 360: Big Data Analysis"
   }
 ]
