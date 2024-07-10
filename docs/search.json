@@ -28,10 +28,17 @@
     "text": "1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Adam Hartley",
+    "section": "",
+    "text": "CSC 108: Introduction to Computer Programming\nCSC 226: Intermediate Programming in C\nCSC 480: Artificial Intelligence\nDSC 360: Big Data Analysis"
+  },
+  {
     "objectID": "about.html#courses-at-umu",
     "href": "about.html#courses-at-umu",
     "title": "Adam Hartley",
-    "section": "Courses at UMU",
-    "text": "Courses at UMU\n\nCurrent Courses (Fall 2024):\n\nCSC 108: Introduction to Computer Programming\nCSC 226: Intermediate Programming in C\nCSC 480: Artificial Intelligence\nDSC 360: Big Data Analysis"
+    "section": "",
+    "text": "CSC 108: Introduction to Computer Programming\nCSC 226: Intermediate Programming in C\nCSC 480: Artificial Intelligence\nDSC 360: Big Data Analysis"
   }
 ]

@@ -1,8 +1,7 @@
 ---
 title: "Adam Hartley"
+subtitle: "Instructor of Computer Science and Data Science at the University of Mount Union"
 ---
-
-### Instructor of Computer Science and Data Science at the University of Mount Union
 
 ## Courses at UMU
 
