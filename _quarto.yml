@@ -8,16 +8,20 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      #- about.qmd
       - CSC_480/CSC_480.qmd
       - CSC_226/CSC_226.qmd
       - CSC_108/CSC_108.qmd
+      - DSC_360/DSC_360.qmd
 
 
 format:
   html:
-    theme: darkly
-    css: styles.css
+    theme:
+      dark: darkly
+      #light: custom.scss
+      light: [custom.scss, darkly]
+    #css: styles.css
     toc: true
 
 editor: visual
