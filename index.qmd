@@ -13,4 +13,4 @@ subtitle: "Instructor of Computer Science and Data Science at the University of 
 
 -   CSC 480: Artificial Intelligence
 
--   DSC 360: Big Data Analysis
+-   [DSC 360: Big Data Analysis](DSC_360/DSC_360.qmd)

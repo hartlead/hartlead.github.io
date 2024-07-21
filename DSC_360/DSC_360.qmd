@@ -1,43 +1,107 @@
 ---
-title: CSC 360
+title: DSC 360
 ---
 
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| Week \# | Date    | Monday    | Date    | Wednesday                | Date    | Friday                         |
-+=========+=========+===========+=========+==========================+=========+================================+
-| 1       | 8-26    | Intro     | 8-28    | Python Libraries         | 8-30    | Pandas                         |
-|         |         |           |         |                          |         |                                |
-|         |         |           |         | **Act. 1**               |         | **Act. 2**                     |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 2       | 9-2     | Labor Day | 9-4     | Data Type Conversion     | 9-6     | Exporting Data / Visualization |
-|         |         |           |         |                          |         |                                |
-|         |         | No Class  |         | Aggregation and Grouping |         | **Act. 3**                     |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 3       | 9-9     |           | 9-11    |                          | 9-13    |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 4       | 9-16    |           | 9-18    |                          | 9-20    |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 5       | 9-23    |           | 9-25    |                          | 9-27    |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 6       | 9-30    |           | 10-2    |                          | 10-4    |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 7       | 10-7    |           | 10-9    |                          | 10-11   |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 8       | 10-14   |           | 10-16   |                          | 10-18   |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 9       | 10-21   |           | 10-23   |                          | 10-25   |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 10      | 10-28   |           | 10-30   |                          | 11-1    |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 11      | 11-4    |           | 11-6    |                          | 11-8    |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 12      | 11-11   |           | 11-13   |                          | 11-15   |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 13      | 11-18   |           | 11-20   |                          | 11-22   |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 14      | 11-25   |           | 11-27   |                          | 11-29   |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
-| 15      | 12-2    |           | 12-4    |                          | 12-6    |                                |
-+---------+---------+-----------+---------+--------------------------+---------+--------------------------------+
+Instructor: Adam Hartley
+
+Email: hartlead\@mountunion.edu
+
+Office: KHIC 041
+
+Office Hours: 2:00-3:00 MWF; 12:30-1:30 TR; by appointment; or whenever my door is open!
+
+Textbook: *Big Data Analysis with Python* by I. Marin, A. Shukla, and S. VK
+
+## Course Outline
+
+A rough outline of the pace of the course and topics covered is below. Each of the activities may be completed and submitted during the class in which they were introduced or by class time the following week.
+
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| Week \# | Date  | Monday                               | Date  | Wednesday                                     | Date  | Friday                             |
++=========+=======+======================================+=======+===============================================+=======+====================================+
+| 1       | 8-26  | Intro                                | 8-28  | Python Libraries                              | 8-30  | Pandas                             |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       |                                      |       | **Act. 1**                                    |       | **Act. 2**                         |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 2       | 9-2   | Labor Day                            | 9-4   | Data Type Conversion                          | 9-6   | Exporting Data / Visualization     |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       | **No Class**                         |       | Aggregation and Grouping                      |       | **Act. 3**                         |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 3       | 9-9   | Types of Graph                       | 9-11  | Seaborn                                       | 9-13  | Dataframes                         |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       | Components of Graphs                 |       | Types of Graphs                               |       | Grouped Data                       |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       |                                      |       | **Act. 4**                                    |       | **Act. 5**                         |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 4       | 9-16  | Modifying Graphs                     | 9-18  | Hadoop                                        | 9-20  | Spark                              |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       | Exporting Data                       |       |                                               |       |                                    |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       | **Act. 6-7**                         |       |                                               |       |                                    |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 5       | 9-23  | Parquet                              | 9-25  | Handling Unstructured Data                    | 9-27  | Spark Dataframes                   |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       |                                      |       | **Act. 8**                                    |       |                                    |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 6       | 9-30  | Exploring Spark Dataframes           | 10-2  | Data Manipulation with Spark Dataframes       | 10-4  | Graphs in Spark                    |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       | **Act. 9**                           |       | **Act. 10**                                   |       | **Act. 11**                        |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 7       | 10-7  | Missing Values                       | 10-9  | Handling Missing Values with Spark Dataframes | 10-11 | Correlation                        |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       |                                      |       |                                               |       | **Act. 12**                        |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 8       | 10-14 | Review                               | 10-16 | Midterm Exam                                  | 10-18 | Fall Break                         |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       |                                      |       |                                               |       | **No Class**                       |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 9       | 10-21 | Defining Business Problems           | 10-23 | Translating BBusinessProblems                 | 10-25 | Standard Approach                  |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       |                                      |       |                                               |       | Data Science Life Cycle            |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       |                                      |       |                                               |       | **Act. 13**                        |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 10      | 10-28 | Reproducibility in Jupyter Notebooks | 10-30 | Gathering Data Reproducibly                   | 11-1  | Code Practices and Standards       |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 11      | 11-4  | Avoiding Repetition                  | 11-6  | Reading Data in Spark                         | 11-8  | SQL Operations on Spark Dataframes |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       | **Act. 14**                          |       | Different Data Sources                        |       |                                    |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 12      | 11-11 | Generating Statistical Relationships | 11-13 | In-class project work                         | 11-15 | In-class project work              |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       | **Act. 15**                          |       |                                               |       |                                    |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 13      | 11-18 | In-class project work                | 11-20 | In-class project work                         | 11-22 | In-class project work              |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 14      | 11-25 | In-class project work                | 11-27 | Thanksgiving                                  | 11-29 | Thanksgiving                       |
+|         |       |                                      |       |                                               |       |                                    |
+|         |       |                                      |       | **No Class**                                  |       | **No Class**                       |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
+| 15      | 12-2  | Presentations                        | 12-4  | Presentations                                 | 12-6  | Presentations                      |
++---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
 
 : Tentative Schedule
+
+## Grading
+
+| Grade Range | Letter Grade |
+|:-----------:|:------------:|
+|  100%-90%   |      A       |
+|  89.9%-87%  |      B+      |
+|  86.9%-84%  |      B       |
+|  83.9%-80%  |      B-      |
+|  79.9%-77%  |      C+      |
+|  76.9%-74%  |      C       |
+|  73.9%-70%  |      C-      |
+|  69.9%-67%  |      D+      |
+|  66.9%-64%  |      D       |
+|  63.9%-60%  |      D-      |
+|    \<60%    |      F       |
+
+## AI Policy
+
+Artificial intelligence is a rapidly evolving field and there are now multiple programs (e.g., ChatGPT and Bard) that can interact with users via “natural” conversations and rapidly generate output including art, essays, and computer code. Programs such as these will continue to evolve and be utilized in professional settings, and you can and should become familiar with them in the course of your undergraduate studies. At the same time, in-demand employees are those who have skills (to not use an AI when doing so would expose proprietary information to the creator of the AI, to debug AI-generated code when it doesn’t get it quite right, to modify output from AI for subtly different use cases, to perform tasks independent of AI when appropriate…) and the clarity of thought and ability to communicate effectively and effortlessly. Your college education is a time to develop these abilities and using AI as a crutch can hinder that process. So, in this course, you should not use AI in any of your work. Doing so without the express permission of the instructor will be considered a breach of academic honesty.
+
+## Additional University Policies
+
+See [www.mountunion.edu/syllabus](www.mountunion.edu/syllabus) for policies and information that are universally applicable to all courses at the University of Mount Union.

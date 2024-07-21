@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+// Base document colors
+
+$body-bg: #000028;
+$body-color: #ccccca;
+$link-color: #285000;
+$navbar-bg: #111161;
+$navbar-fg: #ccccca;
+
+/*
+$body-bg: #002626;
+$body-color: #ccd3d3;
+$link-color: #6c969d;
+$navbar-bg: #0E4749;
+$navbar-fg: #BB4430;
+*/
+//$navbar-fg: #86a3a4;
+//$navbar-body: #c0b3bc;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+.navbar {
+  font-weight: bold;
+}
