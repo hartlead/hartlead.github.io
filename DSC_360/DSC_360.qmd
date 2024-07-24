@@ -16,69 +16,69 @@ Textbook: *Big Data Analysis with Python* by I. Marin, A. Shukla, and S. VK
 
 A rough outline of the pace of the course and topics covered is below. Each of the activities may be completed and submitted during the class in which they were introduced or by class time the following week.
 
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| Week \# | Date  | Monday                               | Date  | Wednesday                                     | Date  | Friday                             |
-+=========+=======+======================================+=======+===============================================+=======+====================================+
-| 1       | 8-26  | Intro                                | 8-28  | Python Libraries                              | 8-30  | Pandas                             |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       |                                      |       | **Act. 1**                                    |       | **Act. 2**                         |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 2       | 9-2   | Labor Day                            | 9-4   | Data Type Conversion                          | 9-6   | Exporting Data / Visualization     |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       | **No Class**                         |       | Aggregation and Grouping                      |       | **Act. 3**                         |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 3       | 9-9   | Types of Graph                       | 9-11  | Seaborn                                       | 9-13  | Dataframes                         |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       | Components of Graphs                 |       | Types of Graphs                               |       | Grouped Data                       |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       |                                      |       | **Act. 4**                                    |       | **Act. 5**                         |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 4       | 9-16  | Modifying Graphs                     | 9-18  | Hadoop                                        | 9-20  | Spark                              |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       | Exporting Data                       |       |                                               |       |                                    |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       | **Act. 6-7**                         |       |                                               |       |                                    |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 5       | 9-23  | Parquet                              | 9-25  | Handling Unstructured Data                    | 9-27  | Spark Dataframes                   |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       |                                      |       | **Act. 8**                                    |       |                                    |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 6       | 9-30  | Exploring Spark Dataframes           | 10-2  | Data Manipulation with Spark Dataframes       | 10-4  | Graphs in Spark                    |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       | **Act. 9**                           |       | **Act. 10**                                   |       | **Act. 11**                        |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 7       | 10-7  | Missing Values                       | 10-9  | Handling Missing Values with Spark Dataframes | 10-11 | Correlation                        |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       |                                      |       |                                               |       | **Act. 12**                        |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 8       | 10-14 | Review                               | 10-16 | Midterm Exam                                  | 10-18 | Fall Break                         |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       |                                      |       |                                               |       | **No Class**                       |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 9       | 10-21 | Defining Business Problems           | 10-23 | Translating BBusinessProblems                 | 10-25 | Standard Approach                  |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       |                                      |       |                                               |       | Data Science Life Cycle            |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       |                                      |       |                                               |       | **Act. 13**                        |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 10      | 10-28 | Reproducibility in Jupyter Notebooks | 10-30 | Gathering Data Reproducibly                   | 11-1  | Code Practices and Standards       |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 11      | 11-4  | Avoiding Repetition                  | 11-6  | Reading Data in Spark                         | 11-8  | SQL Operations on Spark Dataframes |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       | **Act. 14**                          |       | Different Data Sources                        |       |                                    |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 12      | 11-11 | Generating Statistical Relationships | 11-13 | In-class project work                         | 11-15 | In-class project work              |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       | **Act. 15**                          |       |                                               |       |                                    |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 13      | 11-18 | In-class project work                | 11-20 | In-class project work                         | 11-22 | In-class project work              |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 14      | 11-25 | In-class project work                | 11-27 | Thanksgiving                                  | 11-29 | Thanksgiving                       |
-|         |       |                                      |       |                                               |       |                                    |
-|         |       |                                      |       | **No Class**                                  |       | **No Class**                       |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
-| 15      | 12-2  | Presentations                        | 12-4  | Presentations                                 | 12-6  | Presentations                      |
-+---------+-------+--------------------------------------+-------+-----------------------------------------------+-------+------------------------------------+
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| Week \# | Date   | Monday                               | Date   | Wednesday                                     | Date   | Friday                             |
++=========+========+======================================+========+===============================================+========+====================================+
+| 1       | 8-26   | Intro                                | 8-28   | Python Libraries                              | 8-30   | Pandas                             |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        |                                      |        | **Act. 1**                                    |        | **Act. 2**                         |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 2       | 9-2    | Labor Day                            | 9-4    | Data Type Conversion                          | 9-6    | Exporting Data / Visualization     |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        | **No Class**                         |        | Aggregation and Grouping                      |        | **Act. 3**                         |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 3       | 9-9    | Types of Graph                       | 9-11   | Seaborn                                       | 9-13   | Dataframes                         |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        | Components of Graphs                 |        | Types of Graphs                               |        | Grouped Data                       |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        |                                      |        | **Act. 4**                                    |        | **Act. 5**                         |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 4       | 9-16   | Modifying Graphs                     | 9-18   | Hadoop                                        | 9-20   | Spark                              |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        | Exporting Data                       |        |                                               |        |                                    |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        | **Act. 6-7**                         |        |                                               |        |                                    |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 5       | 9-23   | Parquet                              | 9-25   | Handling Unstructured Data                    | 9-27   | Spark Dataframes                   |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        |                                      |        | **Act. 8**                                    |        |                                    |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 6       | 9-30   | Exploring Spark Dataframes           | 10-2   | Data Manipulation with Spark Dataframes       | 10-4   | Graphs in Spark                    |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        | **Act. 9**                           |        | **Act. 10**                                   |        | **Act. 11**                        |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 7       | 10-7   | Missing Values                       | 10-9   | Handling Missing Values with Spark Dataframes | 10-11  | Correlation                        |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        |                                      |        |                                               |        | **Act. 12**                        |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 8       | 10-14  | Review                               | 10-16  | **Midterm Exam**                              | 10-18  | Fall Break                         |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        |                                      |        |                                               |        | **No Class**                       |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 9       | 10-21  | Defining Business Problems           | 10-23  | Translating BBusinessProblems                 | 10-25  | Standard Approach                  |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        |                                      |        |                                               |        | Data Science Life Cycle            |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        |                                      |        |                                               |        | **Act. 13**                        |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 10      | 10-28  | Reproducibility in Jupyter Notebooks | 10-30  | Gathering Data Reproducibly                   | 11-1   | Code Practices and Standards       |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 11      | 11-4   | Avoiding Repetition                  | 11-6   | Reading Data in Spark                         | 11-8   | SQL Operations on Spark Dataframes |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        | **Act. 14**                          |        | Different Data Sources                        |        |                                    |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 12      | 11-11  | Generating Statistical Relationships | 11-13  | In-class project work                         | 11-15  | In-class project work              |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        | **Act. 15**                          |        |                                               |        |                                    |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 13      | 11-18  | In-class project work                | 11-20  | In-class project work                         | 11-22  | In-class project work              |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 14      | 11-25  | **Final Exam**                       | 11-27  | Thanksgiving                                  | 11-29  | Thanksgiving                       |
+|         |        |                                      |        |                                               |        |                                    |
+|         |        |                                      |        | **No Class**                                  |        | **No Class**                       |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
+| 15      | 12-2   | Presentations                        | 12-4   | Presentations                                 | 12-6   | Presentations                      |
++---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
 
 : Tentative Schedule
 
@@ -98,9 +98,33 @@ A rough outline of the pace of the course and topics covered is below. Each of t
 |  63.9%-60%  |      D-      |
 |    \<60%    |      F       |
 
+The assignments for the course are divided into a few categories:
+
+1.  Activities: 15 worth 3 pts. each = 45pts.
+
+2.  Exercises: 15 worth 3 pts. each = 45pts.
+
+3.  Presentations: 1 worth 67 pts. = 67 pts.
+
+4.  In-class exams: 2 worth 34 pts. each = 68 pts.
+
+Activities will be introduced in class and some class time will be allocated to work on the activities. Each activity is due one week after its introduction and may be submitted anytime prior.
+
+Exercises will be assigned for out-of-class work and will be generally due one week from assignment.
+
+In general, no other extra credit work will be assigned.
+
+## Collaboration Policy
+
+The field of science is almost entirely collaborative. If students wish to collaborate on solving exercises or activities outside of class, this is allowed and encouraged under the condition that you explicitly note with who you collaborated. Each student must turn in their own copy of the work, each copy listing the collaborators. Please limit group work to two or three students. The corresponding responsibility is that each student is responsible for the course information. Collaboration is not allowed during exams.
+
 ## AI Policy
 
 Artificial intelligence is a rapidly evolving field and there are now multiple programs (e.g., ChatGPT and Bard) that can interact with users via “natural” conversations and rapidly generate output including art, essays, and computer code. Programs such as these will continue to evolve and be utilized in professional settings, and you can and should become familiar with them in the course of your undergraduate studies. At the same time, in-demand employees are those who have skills (to not use an AI when doing so would expose proprietary information to the creator of the AI, to debug AI-generated code when it doesn’t get it quite right, to modify output from AI for subtly different use cases, to perform tasks independent of AI when appropriate…) and the clarity of thought and ability to communicate effectively and effortlessly. Your college education is a time to develop these abilities and using AI as a crutch can hinder that process. So, in this course, you should not use AI in any of your work. Doing so without the express permission of the instructor will be considered a breach of academic honesty.
+
+## Accessibility
+
+The University of Mount Union values disability as an important aspect of diversity and is committed to providing equitable access to learning opportunities for all students. Student Accessibility Services (SAS) is the campus office that collaborates with students who have disabilities to provide and/or arrange reasonable accommodations based upon appropriate documentation, nature of the request, and feasibility. If you have, or think you have, a temporary or permanent disability and/or medical diagnosis in any area such as, physical or mental health, attention, learning, chronic health, or sensory, please contact SAS. The SAS office will confidentially discuss your needs, review your documentation, and determine your eligibility for reasonable accommodations. Accommodations are not retroactive, and the instructor is under no obligation to provide accommodations if a student does not request accommodation or provide documentation. Students should contact SAS to request accommodations and should discuss their accommodations with their instructor as early as possible in the semester. You may contact the SAS office by phone at (330) 823-7372; or via e-mail at studentaccessibility\@mountunion.edu.
 
 ## Additional University Policies
 
