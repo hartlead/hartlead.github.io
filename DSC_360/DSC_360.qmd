@@ -55,7 +55,7 @@ A rough outline of the pace of the course and topics covered is below. Each of t
 |         |        |                                      |        |                                               |        |                                    |
 |         |        |                                      |        |                                               |        | **No Class**                       |
 +---------+--------+--------------------------------------+--------+-----------------------------------------------+--------+------------------------------------+
-| 9       | 10-21  | Defining Business Problems           | 10-23  | Translating BBusinessProblems                 | 10-25  | Standard Approach                  |
+| 9       | 10-21  | Defining Business Problems           | 10-23  | Translating Business Problems                 | 10-25  | Standard Approach                  |
 |         |        |                                      |        |                                               |        |                                    |
 |         |        |                                      |        |                                               |        | Data Science Life Cycle            |
 |         |        |                                      |        |                                               |        |                                    |
