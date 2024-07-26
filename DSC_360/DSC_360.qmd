@@ -1,5 +1,5 @@
 ---
-title: DSC 360
+title: DSC 360 -- Big Data Analytics
 ---
 
 Instructor: Adam Hartley
@@ -11,6 +11,26 @@ Office: KHIC 041
 Office Hours: 2:00-3:00 MWF; 12:30-1:30 TR; by appointment; or whenever my door is open!
 
 Textbook: *Big Data Analysis with Python* by I. Marin, A. Shukla, and S. VK
+
+## Course Motivation & Description
+
+> “Every company has big data in its future and every company will eventually be in the data business.”
+>
+> — Thomas H. Davenport, co-founder, International Institute for Analytics
+
+Training in data science generally begins with small data sets that can easily be read and manipulated by personal computers. This is a very valuable skill; many data analysts who work with small or mid-sized companies work exclusively with small data or relatively small data sets (e.g., those that might be stored on a central company server and queried with SQL). However, many companies – especially larger companies in healthcare, IT, marketing, finance, etc. – rely on the analysis of truly massive data sets (e.g., measured in terabytes). Doing so requires specialized tools; this is the focus of this course. We shall see that many of the tools and methods familiar from introductory courses in data science are relevant here, too, and we shall begin the course with a refresher on some fundamentals. From there we will investigate big data frameworks, with an emphasis on Hadoop and Spark. As usual, we will emphasize both the fundamental theories/principles of the techniques we will explore and practical use cases with real data.
+
+-   Combine elements of algorithm design, statistics, optimization, and computer science to make decisions with data.
+
+-   Work with computing tasks distributed over a cluster, especially with Hadoop and Spark.
+
+-   Convert data from various sources into storage or querying formats.
+
+-   Prepare big data for statistical analysis, visualization, and machine learning.
+
+-   Effectively utilize the [Ohio Supercomputer Center](www.osc.edu) interface.
+
+-   Articulate the workflow and outcomes of big data analysis for technical and non- technical audiences.
 
 ## Course Outline
 
@@ -100,29 +120,41 @@ A rough outline of the pace of the course and topics covered is below. Each of t
 
 The assignments for the course are divided into a few categories:
 
-1.  Activities: 15 worth 3 pts. each = 45pts.
+-   Activities: 15 worth 3 pts. each = 45pts.
 
-2.  Exercises: 15 worth 3 pts. each = 45pts.
+    -   Activities will be introduced in class and some class time will be allocated to work on the activities. Each activity is due one week after its introduction and may be submitted anytime prior.
 
-3.  Final Project: 1 worth 67 pts. = 67 pts.
+-   Exercises: 15 worth 3 pts. each = 45pts.
 
-4.  In-class exams: 2 worth 34 pts. each = 68 pts.
+    -   Exercises will be assigned for out-of-class work and will be generally due one week from assignment.
 
-    Total points available: 225 pts.
+-   Final Project: 1 worth 67 pts. = 67 pts.
 
-Activities will be introduced in class and some class time will be allocated to work on the activities. Each activity is due one week after its introduction and may be submitted anytime prior.
+    -   The Final Project is your opportunity to apply what you have learned through the semester. You will prepare your report a Notebook environment (Jupyter or R) to seamlessly move between text, code, and results. The length should correspond to roughly a 5-8 single spaced page paper. The paper should be directed to a general audience, present a research question (what data set will you analyze, and what question will you answer), describe the methods you will use (at least 4 different techniques drawn from the text must be used), proceed to discuss the results of the methods applied to your data, and finally draw a conclusion that synthesizes your results and ultimately answers the research question.
 
-Exercises will be assigned for out-of-class work and will be generally due one week from assignment.
+    -   You must (informally) discuss the data, research objective, and methods with your instructor before engaging in this work.
 
-Final Project, this
+    -   Include at least 4 professional quality images (generated through Python or R) to visually summarize your work.
 
-There will be two in class exams, which will be effectively be activities/exercises under a time limit.
+    -   Include citations, as appropriate.
+
+    -   Submit your raw data and well-commented code for review. The instructor must be able to “plug and play” to execute the code and generate your images and other results.
+
+    -   At the end of the semester, each group will have some time to present their project to the class.
+
+-   In-class exams: 2 worth 34 pts. each = 68 pts.
+
+    -   There will be two in-class exams, which will be very similar to previously assigned activities/exercises under a time limit.
+
+Total points available: 225 pts.
+
+By appointment only, up to five homework assignments can be discussed more deeply in my office for a total of three extra points per assignment (up to 15 extra points).
 
 In general, no other extra credit work will be assigned.
 
 ## Collaboration Policy
 
-The field of science is almost entirely collaborative. If students wish to collaborate on solving exercises or activities outside of class, this is allowed and encouraged under the condition that you explicitly note with who you collaborated. Each student must turn in their own copy of the work, each copy listing the collaborators. Please limit group work to two or three students. The corresponding responsibility is that each student is responsible for the course information. Collaboration is not allowed during exams.
+The field of science is almost entirely collaborative. If students wish to collaborate on solving exercises or activities outside of class, this is allowed and encouraged under the condition that you explicitly note with whom you collaborated. Each student must turn in their own copy of the work, each copy listing the collaborators. Please limit group work to two or three students. The corresponding responsibility is that each student is individually responsible for the course information. Collaboration is not allowed during exams.
 
 ## AI Policy
 
