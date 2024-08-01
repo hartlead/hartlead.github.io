@@ -14,6 +14,90 @@
     "text": "CSC 108: Introduction to Computer Programming\nCSC 226: Intermediate Programming in C\nCSC 480: Artificial Intelligence\nDSC 360: Big Data Analysis"
   },
   {
+    "objectID": "DSC_360/DSC_360.html",
+    "href": "DSC_360/DSC_360.html",
+    "title": "DSC 360 – Big Data Analytics",
+    "section": "",
+    "text": "Instructor: Adam Hartley\nEmail: hartlead@mountunion.edu\nOffice: KHIC 041\nOffice Hours: 2:00-3:00 MWF; 12:30-1:30 TR; by appointment; or whenever my door is open!\nTextbook: Big Data Analysis with Python by I. Marin, A. Shukla, and S. VK"
+  },
+  {
+    "objectID": "DSC_360/DSC_360.html#course-motivation-description",
+    "href": "DSC_360/DSC_360.html#course-motivation-description",
+    "title": "DSC 360 – Big Data Analytics",
+    "section": "Course Motivation & Description",
+    "text": "Course Motivation & Description\n\n“Every company has big data in its future and every company will eventually be in the data business.”\n— Thomas H. Davenport, co-founder, International Institute for Analytics\n\nTraining in data science generally begins with small data sets that can easily be read and manipulated by personal computers. This is a very valuable skill; many data analysts who work with small or mid-sized companies work exclusively with small data or relatively small data sets (e.g., those that might be stored on a central company server and queried with SQL). However, many companies – especially larger companies in healthcare, IT, marketing, finance, etc. – rely on the analysis of truly massive data sets (e.g., measured in terabytes). Doing so requires specialized tools; this is the focus of this course. We shall see that many of the tools and methods familiar from introductory courses in data science are relevant here, too, and we shall begin the course with a refresher on some fundamentals. From there we will investigate big data frameworks, with an emphasis on Hadoop and Spark. As usual, we will emphasize both the fundamental theories/principles of the techniques we will explore and practical use cases with real data.\nSpecific learning objectives include:\n\nCombine elements of algorithm design, statistics, optimization, and computer science to make decisions with data.\nWork with computing tasks distributed over a cluster, especially with Hadoop and Spark.\nConvert data from various sources into storage or querying formats.\nPrepare big data for statistical analysis, visualization, and machine learning.\nEffectively utilize the Ohio Supercomputer Center interface.\nArticulate the workflow and outcomes of big data analysis for technical and non-technical audiences."
+  },
+  {
+    "objectID": "DSC_360/DSC_360.html#course-outline",
+    "href": "DSC_360/DSC_360.html#course-outline",
+    "title": "DSC 360 – Big Data Analytics",
+    "section": "Course Outline",
+    "text": "Course Outline\nA rough outline of the pace of the course and topics covered is below. Each activity is due by the start of class one week after it is introduced.\n\nTentative Schedule\n\n\n\n\n\n\n\n\n\n\n\nWeek #\nDate\nMonday\nDate\nWednesday\nDate\nFriday\n\n\n\n\n1\n8-26\nIntro\n8-28\nPython Libraries\nAct. 1\n8-30\nPandas\nAct. 2\n\n\n2\n9-2\nLabor Day\nNo Class\n9-4\nData Type Conversion\nAggregation and Grouping\n9-6\nExporting Data / Visualization\nAct. 3\n\n\n3\n9-9\nTypes of Graph\nComponents of Graphs\n9-11\nSeaborn\nTypes of Graphs\nAct. 4\n9-13\nDataframes\nGrouped Data\nAct. 5\n\n\n4\n9-16\nModifying Graphs\nExporting Data\nAct. 6-7\n9-18\nHadoop\n9-20\nSpark\n\n\n5\n9-23\nParquet\n9-25\nHandling Unstructured Data\nAct. 8\n9-27\nSpark Dataframes\n\n\n6\n9-30\nExploring Spark Dataframes\nAct. 9\n10-2\nData Manipulation with Spark Dataframes\nAct. 10\n10-4\nGraphs in Spark\nAct. 11\n\n\n7\n10-7\nMissing Values\n10-9\nHandling Missing Values with Spark Dataframes\n10-11\nCorrelation\nAct. 12\n\n\n8\n10-14\nReview\n10-16\nMidterm Exam\n10-18\nFall Break\nNo Class\n\n\n9\n10-21\nDefining Business Problems\n10-23\nTranslating Business Problems\n10-25\nStandard Approach\nData Science Life Cycle\nAct. 13\n\n\n10\n10-28\nReproducibility in Jupyter Notebooks\n10-30\nGathering Data Reproducibly\n11-1\nCode Practices and Standards\n\n\n11\n11-4\nAvoiding Repetition\nAct. 14\n11-6\nReading Data in Spark\nDifferent Data Sources\n11-8\nSQL Operations on Spark Dataframes\n\n\n12\n11-11\nGenerating Statistical Relationships\nAct. 15\n11-13\nIn-class project work\n11-15\nIn-class project work\n\n\n13\n11-18\nIn-class project work\n11-20\nIn-class project work\n11-22\nIn-class project work\n\n\n14\n11-25\nIn-class project work\n11-27\nThanksgiving\nNo Class\n11-29\nThanksgiving\nNo Class\n\n\n15\n12-2\nPresentations\n12-4\nPresentations\n12-6\nPresentations"
+  },
+  {
+    "objectID": "DSC_360/DSC_360.html#grading",
+    "href": "DSC_360/DSC_360.html#grading",
+    "title": "DSC 360 – Big Data Analytics",
+    "section": "Grading",
+    "text": "Grading\n\n\n\nGrade Range\nLetter Grade\n\n\n\n\n100%-94%\nA\n\n\n93.9%-90%\nA-\n\n\n89.9%-87%\nB+\n\n\n86.9%-84%\nB\n\n\n83.9%-80%\nB-\n\n\n79.9%-77%\nC+\n\n\n76.9%-74%\nC\n\n\n73.9%-70%\nC-\n\n\n69.9%-67%\nD+\n\n\n66.9%-64%\nD\n\n\n63.9%-60%\nD-\n\n\n&lt;60%\nF\n\n\n\nThe assignments for the course are divided into a few categories:\n\nActivities: 15 worth 3 pts. each = 45pts.\n\nActivities will be introduced in class and some class time will be allocated to work on the activities. Each activity is due one week after its introduction and may be submitted anytime prior.\n\nExercises: 15 worth 3 pts. each = 45pts.\n\nExercises will be assigned for out-of-class work and will be generally due one week from assignment.\n\nFinal Project: 1 worth 67 pts. = 67 pts.\n\nThe Final Project is your opportunity to apply what you have learned through the semester. You will prepare your report a Notebook environment (Jupyter or R) to seamlessly move between text, code, and results. The length should correspond to roughly a 5-8 single spaced page paper. The paper should be directed to a general audience, present a research question (what data set will you analyze, and what question will you answer), describe the methods you will use (at least 4 different techniques drawn from the text must be used), proceed to discuss the results of the methods applied to your data, and finally draw a conclusion that synthesizes your results and ultimately answers the research question.\nYou must (informally) discuss the data, research objective, and methods with your instructor before engaging in this work.\nInclude at least 4 professional-quality images (generated through Python or R) to visually summarize your work.\nInclude citations, as appropriate.\nSubmit your raw data and well-commented code for review. The instructor must be able to “plug and play” to execute the code and generate your images and other results.\nEach student may work alone or in groups of two\nAt the end of the semester, each group will have some time to present their project to the class.\nMore information about the final project will be provided as we get underway.\n\nIn-class exams: 2 worth 34 pts. each = 68 pts.\n\nThere will be two in-class exams, which will be very similar to previously assigned activities/exercises under a time limit.\n\n\nTotal points available: 225 pts.\nAssignments may occasionally include optional extensions that will be graded for extra credit. These will generally require additional discussion with the instructor. Come to office hours or schedule an individual time!\nIn general, no other extra credit work will be assigned."
+  },
+  {
+    "objectID": "DSC_360/DSC_360.html#collaboration-policy",
+    "href": "DSC_360/DSC_360.html#collaboration-policy",
+    "title": "DSC 360 – Big Data Analytics",
+    "section": "Collaboration Policy",
+    "text": "Collaboration Policy\nThe field of science is almost entirely collaborative. If students wish to collaborate on solving exercises or activities outside of class, this is allowed and encouraged under the condition that you explicitly note with whom you collaborated. Each student must turn in their own copy of the work, each copy listing the collaborators. Please limit group work to two or three students. Each student is individually responsible for the course information. Collaboration is not allowed during exams."
+  },
+  {
+    "objectID": "DSC_360/DSC_360.html#late-policy",
+    "href": "DSC_360/DSC_360.html#late-policy",
+    "title": "DSC 360 – Big Data Analytics",
+    "section": "Late Policy",
+    "text": "Late Policy\nEach 24 hours, an activity or exercise is past due, it is worth one fewer point. After 72 hours, the assignment is worth zero points. Extra credit work, if applicable, isn’t accepted past-due. The exams and final project will generally not be accepted late. In the case of an emergency or extended complications that would prevent exam attendance or inability to participate in the class, contact the instructor as early as possible so that other arrangements may be made."
+  },
+  {
+    "objectID": "DSC_360/DSC_360.html#technology-requirements",
+    "href": "DSC_360/DSC_360.html#technology-requirements",
+    "title": "DSC 360 – Big Data Analytics",
+    "section": "Technology Requirements",
+    "text": "Technology Requirements\nCollege coursework requires students to be responsible with reading and assignments, checking email and D2L frequently, and staying in regular communication with instructors. Technology access will be important for success. To participate in learning activities and complete assignments, you will need:\n\nAccess to a working computer that has a current operating system with updates installed\nReliable Internet access and a Mount Union email account\nA current Internet browser that is compatible with D2L\n\nPlease contact the IT Help Desk at 330.829.8726 or helpdesk@mountunion.edu if you need assistance with obtaining or using a device, any necessary software, or internet access at any time during this semester.\nPlease bring your laptop to class, we will make extensive use of in-class time for lab work."
+  },
+  {
+    "objectID": "DSC_360/DSC_360.html#ai-policy",
+    "href": "DSC_360/DSC_360.html#ai-policy",
+    "title": "DSC 360 – Big Data Analytics",
+    "section": "AI Policy",
+    "text": "AI Policy\nArtificial intelligence is a rapidly evolving field and there are now multiple programs (e.g., ChatGPT and Bard) that can interact with users via “natural” conversations and rapidly generate output including art, essays, and computer code. Programs such as these will continue to evolve and be utilized in professional settings, and you can and should become familiar with them in the course of your undergraduate studies. At the same time, in-demand employees are those who have skills (to not use an AI when doing so would expose proprietary information to the creator of the AI, to debug AI-generated code when it doesn’t get it quite right, to modify output from AI for subtly different use cases, to perform tasks independent of AI when appropriate…) and the clarity of thought and ability to communicate effectively and effortlessly. Your college education is a time to develop these abilities and using AI as a crutch can hinder that process. So, in this course, you should not use AI in any of your work. Doing so without the express permission of the instructor will be considered a breach of academic honesty."
+  },
+  {
+    "objectID": "DSC_360/DSC_360.html#accessibility",
+    "href": "DSC_360/DSC_360.html#accessibility",
+    "title": "DSC 360 – Big Data Analytics",
+    "section": "Accessibility",
+    "text": "Accessibility\nThe University of Mount Union values disability as an important aspect of diversity and is committed to providing equitable access to learning opportunities for all students. Student Accessibility Services (SAS) is the campus office that collaborates with students who have disabilities to provide and/or arrange reasonable accommodations based upon appropriate documentation, nature of the request, and feasibility. If you have, or think you have, a temporary or permanent disability and/or medical diagnosis in any area such as, physical or mental health, attention, learning, chronic health, or sensory, please contact SAS. The SAS office will confidentially discuss your needs, review your documentation, and determine your eligibility for reasonable accommodations. Accommodations are not retroactive, and the instructor is under no obligation to provide accommodations if a student does not request accommodation or provide documentation. Students should contact SAS to request accommodations and should discuss their accommodations with their instructor as early as possible in the semester. You may contact the SAS office by phone at (330) 823-7372; or via e-mail at studentaccessibility@mountunion.edu."
+  },
+  {
+    "objectID": "DSC_360/DSC_360.html#additional-university-policies",
+    "href": "DSC_360/DSC_360.html#additional-university-policies",
+    "title": "DSC 360 – Big Data Analytics",
+    "section": "Additional University Policies",
+    "text": "Additional University Policies\nSee https://www.mountunion.edu/syllabus for policies and information that are universally applicable to all courses at the University of Mount Union."
+  },
+  {
+    "objectID": "CSC_226/CSC_226.html",
+    "href": "CSC_226/CSC_226.html",
+    "title": "CSC 226",
+    "section": "",
+    "text": "Tentative Schedule\n\n\n\n\n\n\n\n\n\n\nDate\nTuesday\nReading\nDate\nThursday\nReading\n\n\n\n\n27\nSyllabus Roadmap\n\n29\nTutorial Intro\nK&R C Ch. 2\n\n\n3\nBackground C\n\n5\nType, Operators, Expressions\nProgram 1 Due\n\n\n\n10\nControl Flow\nQuiz 1\nK&R Ch. 3\n12\nFunctions / Program Structure\nProgram 2 Due\nK&R Ch. 4\n\n\n17\nArrays\nK&R Ch. 5\n19\nProgram Structures\nQuiz 2\nK&R Ch. 6\n\n\n24\nDynamic Memory Management\nProgram 3 Due\nReese Ch. 2\n26\nPointers & Functions\nReese Ch. 3\n\n\n1\nPointers & Strings\nQuiz 3\nReese Ch. 4\n3\nPointers & Arrays\nProgram 4 Due\nReese Ch. 5\n\n\n8\nPointers & Structures\nReese Ch. 7\n10\nMemory Issues\nReese Ch. 8\n\n\n15\nWorkshop\nProgram 5 Due\nQuiz 4\n\n17\nFinal Exam"
+  },
+  {
+    "objectID": "CSC_226/CSC_226.html#assignments-and-grading",
+    "href": "CSC_226/CSC_226.html#assignments-and-grading",
+    "title": "CSC 226",
+    "section": "Assignments and Grading",
+    "text": "Assignments and Grading\n\n\n\nAssignment Type\nPoints Per-Assignment\nTotal Points\n\n\n\n\n5 Programs\n20\n100\n\n\n4 In-Class Quizzes\n30\n120\n\n\n1 “Lab Exam”\n50\n50\n\n\n11 In-Class Labs\n10\n110\n\n\n\n\nGrading Criteria\n\n\nGrade Range\nLetter Grade\n\n\n\n\n100%-90%\nA\n\n\n89.9%-87%\nB+\n\n\n86.9%-84%\nB\n\n\n83.9%-80%\nB-\n\n\n79.9%-77%\nC+\n\n\n76.9%-74%\nC\n\n\n73.9%-70%\nC-\n\n\n69.9%-67%\nD+\n\n\n66.9%-64%\nD\n\n\n63.9%-60%\nD-\n\n\n&lt;60%\nF"
+  },
+  {
     "objectID": "CSC_108/CSC_108.html",
     "href": "CSC_108/CSC_108.html",
     "title": "CSC 108",
@@ -35,80 +119,10 @@
     "text": "Grades will be determined from the following assignments:\n\nFive (5) programming assignments, worth 20 points each, total 100 points.\nFour (4) in-class quizzes, worth 30 points each, total 120 points\nTen (10) in-class labs, worth 10 points each, total 110 points\nOne exam worth 50 points"
   },
   {
-    "objectID": "DSC_360/DSC_360.html",
-    "href": "DSC_360/DSC_360.html",
-    "title": "DSC 360 – Big Data Analytics",
-    "section": "",
-    "text": "Instructor: Adam Hartley\nEmail: hartlead@mountunion.edu\nOffice: KHIC 041\nOffice Hours: 2:00-3:00 MWF; 12:30-1:30 TR; by appointment; or whenever my door is open!\nTextbook: Big Data Analysis with Python by I. Marin, A. Shukla, and S. VK"
-  },
-  {
-    "objectID": "DSC_360/DSC_360.html#ai-policy",
-    "href": "DSC_360/DSC_360.html#ai-policy",
-    "title": "DSC 360 – Big Data Analytics",
-    "section": "AI Policy",
-    "text": "AI Policy\nArtificial intelligence is a rapidly evolving field and there are now multiple programs (e.g., ChatGPT and Bard) that can interact with users via “natural” conversations and rapidly generate output including art, essays, and computer code. Programs such as these will continue to evolve and be utilized in professional settings, and you can and should become familiar with them in the course of your undergraduate studies. At the same time, in-demand employees are those who have skills (to not use an AI when doing so would expose proprietary information to the creator of the AI, to debug AI-generated code when it doesn’t get it quite right, to modify output from AI for subtly different use cases, to perform tasks independent of AI when appropriate…) and the clarity of thought and ability to communicate effectively and effortlessly. Your college education is a time to develop these abilities and using AI as a crutch can hinder that process. So, in this course, you should not use AI in any of your work. Doing so without the express permission of the instructor will be considered a breach of academic honesty."
-  },
-  {
-    "objectID": "DSC_360/DSC_360.html#additional-university-policies",
-    "href": "DSC_360/DSC_360.html#additional-university-policies",
-    "title": "DSC 360 – Big Data Analytics",
-    "section": "Additional University Policies",
-    "text": "Additional University Policies\nSee https://www.mountunion.edu/syllabus for policies and information that are universally applicable to all courses at the University of Mount Union."
-  },
-  {
-    "objectID": "DSC_360/DSC_360.html#course-outline",
-    "href": "DSC_360/DSC_360.html#course-outline",
-    "title": "DSC 360 – Big Data Analytics",
-    "section": "Course Outline",
-    "text": "Course Outline\nA rough outline of the pace of the course and topics covered is below. Each activity is due by the start of class one week after it is introduced.\n\nTentative Schedule\n\n\n\n\n\n\n\n\n\n\n\nWeek #\nDate\nMonday\nDate\nWednesday\nDate\nFriday\n\n\n\n\n1\n8-26\nIntro\n8-28\nPython Libraries\nAct. 1\n8-30\nPandas\nAct. 2\n\n\n2\n9-2\nLabor Day\nNo Class\n9-4\nData Type Conversion\nAggregation and Grouping\n9-6\nExporting Data / Visualization\nAct. 3\n\n\n3\n9-9\nTypes of Graph\nComponents of Graphs\n9-11\nSeaborn\nTypes of Graphs\nAct. 4\n9-13\nDataframes\nGrouped Data\nAct. 5\n\n\n4\n9-16\nModifying Graphs\nExporting Data\nAct. 6-7\n9-18\nHadoop\n9-20\nSpark\n\n\n5\n9-23\nParquet\n9-25\nHandling Unstructured Data\nAct. 8\n9-27\nSpark Dataframes\n\n\n6\n9-30\nExploring Spark Dataframes\nAct. 9\n10-2\nData Manipulation with Spark Dataframes\nAct. 10\n10-4\nGraphs in Spark\nAct. 11\n\n\n7\n10-7\nMissing Values\n10-9\nHandling Missing Values with Spark Dataframes\n10-11\nCorrelation\nAct. 12\n\n\n8\n10-14\nReview\n10-16\nMidterm Exam\n10-18\nFall Break\nNo Class\n\n\n9\n10-21\nDefining Business Problems\n10-23\nTranslating Business Problems\n10-25\nStandard Approach\nData Science Life Cycle\nAct. 13\n\n\n10\n10-28\nReproducibility in Jupyter Notebooks\n10-30\nGathering Data Reproducibly\n11-1\nCode Practices and Standards\n\n\n11\n11-4\nAvoiding Repetition\nAct. 14\n11-6\nReading Data in Spark\nDifferent Data Sources\n11-8\nSQL Operations on Spark Dataframes\n\n\n12\n11-11\nGenerating Statistical Relationships\nAct. 15\n11-13\nIn-class project work\n11-15\nIn-class project work\n\n\n13\n11-18\nIn-class project work\n11-20\nIn-class project work\n11-22\nIn-class project work\n\n\n14\n11-25\nIn-class project work\n11-27\nThanksgiving\nNo Class\n11-29\nThanksgiving\nNo Class\n\n\n15\n12-2\nPresentations\n12-4\nPresentations\n12-6\nPresentations"
-  },
-  {
-    "objectID": "CSC_226/CSC_226.html",
-    "href": "CSC_226/CSC_226.html",
-    "title": "CSC 226",
-    "section": "",
-    "text": "Tentative Schedule\n\n\n\n\n\n\n\n\n\n\nDate\nTuesday\nReading\nDate\nThursday\nReading\n\n\n\n\n27\nSyllabus Roadmap\n\n29\nTutorial Intro\nK&R C Ch. 2\n\n\n3\nBackground C\n\n5\nType, Operators, Expressions\nProgram 1 Due\n\n\n\n10\nControl Flow\nQuiz 1\nK&R Ch. 3\n12\nFunctions / Program Structure\nProgram 2 Due\nK&R Ch. 4\n\n\n17\nArrays\nK&R Ch. 5\n19\nProgram Structures\nQuiz 2\nK&R Ch. 6\n\n\n24\nDynamic Memory Management\nProgram 3 Due\nReese Ch. 2\n26\nPointers & Functions\nReese Ch. 3\n\n\n1\nPointers & Strings\nQuiz 3\nReese Ch. 4\n3\nPointers & Arrays\nProgram 4 Due\nReese Ch. 5\n\n\n8\nPointers & Structures\nReese Ch. 7\n10\nMemory Issues\nReese Ch. 8\n\n\n15\nWorkshop\nProgram 5 Due\nQuiz 4\n\n17\nFinal Exam"
-  },
-  {
-    "objectID": "CSC_226/CSC_226.html#assignments-and-grading",
-    "href": "CSC_226/CSC_226.html#assignments-and-grading",
-    "title": "CSC 226",
-    "section": "Assignments and Grading",
-    "text": "Assignments and Grading\n\n\n\nAssignment Type\nPoints Per-Assignment\nTotal Points\n\n\n\n\n5 Programs\n20\n100\n\n\n4 In-Class Quizzes\n30\n120\n\n\n1 “Lab Exam”\n50\n50\n\n\n11 In-Class Labs\n10\n110\n\n\n\n\nGrading Criteria\n\n\nGrade Range\nLetter Grade\n\n\n\n\n100%-90%\nA\n\n\n89.9%-87%\nB+\n\n\n86.9%-84%\nB\n\n\n83.9%-80%\nB-\n\n\n79.9%-77%\nC+\n\n\n76.9%-74%\nC\n\n\n73.9%-70%\nC-\n\n\n69.9%-67%\nD+\n\n\n66.9%-64%\nD\n\n\n63.9%-60%\nD-\n\n\n&lt;60%\nF"
-  },
-  {
-    "objectID": "DSC_360/DSC_360.html#grading",
-    "href": "DSC_360/DSC_360.html#grading",
-    "title": "DSC 360 – Big Data Analytics",
-    "section": "Grading",
-    "text": "Grading\n\n\n\nGrade Range\nLetter Grade\n\n\n\n\n100%-94%\nA\n\n\n93.9%-90%\nA-\n\n\n89.9%-87%\nB+\n\n\n86.9%-84%\nB\n\n\n83.9%-80%\nB-\n\n\n79.9%-77%\nC+\n\n\n76.9%-74%\nC\n\n\n73.9%-70%\nC-\n\n\n69.9%-67%\nD+\n\n\n66.9%-64%\nD\n\n\n63.9%-60%\nD-\n\n\n&lt;60%\nF\n\n\n\nThe assignments for the course are divided into a few categories:\n\nActivities: 15 worth 3 pts. each = 45pts.\n\nActivities will be introduced in class and some class time will be allocated to work on the activities. Each activity is due one week after its introduction and may be submitted anytime prior.\n\nExercises: 15 worth 3 pts. each = 45pts.\n\nExercises will be assigned for out-of-class work and will be generally due one week from assignment.\n\nFinal Project: 1 worth 67 pts. = 67 pts.\n\nThe Final Project is your opportunity to apply what you have learned through the semester. You will prepare your report a Notebook environment (Jupyter or R) to seamlessly move between text, code, and results. The length should correspond to roughly a 5-8 single spaced page paper. The paper should be directed to a general audience, present a research question (what data set will you analyze, and what question will you answer), describe the methods you will use (at least 4 different techniques drawn from the text must be used), proceed to discuss the results of the methods applied to your data, and finally draw a conclusion that synthesizes your results and ultimately answers the research question.\nYou must (informally) discuss the data, research objective, and methods with your instructor before engaging in this work.\nInclude at least 4 professional quality images (generated through Python or R) to visually summarize your work.\nInclude citations, as appropriate.\nSubmit your raw data and well-commented code for review. The instructor must be able to “plug and play” to execute the code and generate your images and other results.\nAt the end of the semester, each group will have some time to present their project to the class.\nMore information about the final project will be provided as we get underway.\n\nIn-class exams: 2 worth 34 pts. each = 68 pts.\n\nThere will be two in-class exams, which will be very similar to previously assigned activities/exercises under a time limit.\n\n\nTotal points available: 225 pts.\nAssignments may occasionally include optional extensions that will be graded for extra credit. These will generally require additional discussion with the instructor. Come to office hours or schedule an individual time!\nIn general, no other extra credit work will be assigned."
-  },
-  {
-    "objectID": "DSC_360/DSC_360.html#collaboration-policy",
-    "href": "DSC_360/DSC_360.html#collaboration-policy",
-    "title": "DSC 360 – Big Data Analytics",
-    "section": "Collaboration Policy",
-    "text": "Collaboration Policy\nThe field of science is almost entirely collaborative. If students wish to collaborate on solving exercises or activities outside of class, this is allowed and encouraged under the condition that you explicitly note with whom you collaborated. Each student must turn in their own copy of the work, each copy listing the collaborators. Please limit group work to two or three students. The corresponding responsibility is that each student is individually responsible for the course information. Collaboration is not allowed during exams."
-  },
-  {
-    "objectID": "DSC_360/DSC_360.html#accessibility",
-    "href": "DSC_360/DSC_360.html#accessibility",
-    "title": "DSC 360 – Big Data Analytics",
-    "section": "Accessibility",
-    "text": "Accessibility\nThe University of Mount Union values disability as an important aspect of diversity and is committed to providing equitable access to learning opportunities for all students. Student Accessibility Services (SAS) is the campus office that collaborates with students who have disabilities to provide and/or arrange reasonable accommodations based upon appropriate documentation, nature of the request, and feasibility. If you have, or think you have, a temporary or permanent disability and/or medical diagnosis in any area such as, physical or mental health, attention, learning, chronic health, or sensory, please contact SAS. The SAS office will confidentially discuss your needs, review your documentation, and determine your eligibility for reasonable accommodations. Accommodations are not retroactive, and the instructor is under no obligation to provide accommodations if a student does not request accommodation or provide documentation. Students should contact SAS to request accommodations and should discuss their accommodations with their instructor as early as possible in the semester. You may contact the SAS office by phone at (330) 823-7372; or via e-mail at studentaccessibility@mountunion.edu."
-  },
-  {
     "objectID": "DSC_360/DSC_360_private.html",
     "href": "DSC_360/DSC_360_private.html",
     "title": "DSC_360_private",
     "section": "",
     "text": "Tentative Schedule\n\n\n\n\n\n\n\n\n\n\n\nWeek #\nDate\nMonday\nDate\nWednesday\nDate\nFriday\n\n\n\n\n1\n8-26\nIntro\n8-28\nPython Libraries\nAct. 1\n8-30\nPandas\nAct. 2\n\n\n2\n9-2\nLabor Day\nNo Class\n9-4\nData Type Conversion\nAggregation and Grouping\n9-6\nExporting Data / Visualization\nAct. 3\n\n\n3\n9-9\nTypes of Graph\nComponents of Graphs\n9-11\nSeaborn\nTypes of Graphs\nAct. 4\n9-13\nDataframes\nGrouped Data\nAct. 5\n\n\n4\n9-16\nModifying Graphs\nExporting Data\nAct. 6-7\n9-18\nHadoop\n9-20\nSpark\n\n\n5\n9-23\nParquet\n9-25\nHandling Unstructured Data\nAct. 8\n9-27\nSpark Dataframes\n\n\n6\n9-30\nExploring Spark Dataframes\nAct. 9\n10-2\nData Manipulation with Spark Dataframes\nAct. 10\n10-4\nGraphs in Spark\nAct. 11\n\n\n7\n10-7\nMissing Values\n10-9\nHandling Missing Values with Spark Dataframes\n10-11\nCorrelation\nAct. 12\n\n\n8\n10-14\nReview\n10-16\nMidterm Exam\n10-18\nFall Break\nNo Class\n\n\n9\n10-21\nDefining Business Problems\n10-23\nTranslating Business Problems\n10-25\nStandard Approach\nData Science Life Cycle\nAct. 13\n\n\n10\n10-28\nReproducibility in Jupyter Notebooks\n10-30\nGathering Data Reproducibly\n11-1\nCode Practices and Standards\n\n\n11\n11-4\nAvoiding Repetition\nAct. 14\n11-6\nReading Data in Spark\nDifferent Data Sources\n11-8\nSQL Operations on Spark Dataframes\n\n\n12\n11-11\nGenerating Statistical Relationships\nAct. 15\n11-13\nIn-class project work\n11-15\nIn-class project work\n\n\n13\n11-18\nIn-class project work\n11-20\nIn-class project work\n11-22\nIn-class project work\n\n\n14\n11-25\nFinal Exam\n11-27\nThanksgiving\nNo Class\n11-29\nThanksgiving\nNo Class\n\n\n15\n12-2\nPresentations\n12-4\nPresentations\n12-6\nPresentations"
-  },
-  {
-    "objectID": "DSC_360/DSC_360.html#course-motivation-description",
-    "href": "DSC_360/DSC_360.html#course-motivation-description",
-    "title": "DSC 360 – Big Data Analytics",
-    "section": "Course Motivation & Description",
-    "text": "Course Motivation & Description\n\n“Every company has big data in its future and every company will eventually be in the data business.”\n— Thomas H. Davenport, co-founder, International Institute for Analytics\n\nTraining in data science generally begins with small data sets that can easily be read and manipulated by personal computers. This is a very valuable skill; many data analysts who work with small or mid-sized companies work exclusively with small data or relatively small data sets (e.g., those that might be stored on a central company server and queried with SQL). However, many companies – especially larger companies in healthcare, IT, marketing, finance, etc. – rely on the analysis of truly massive data sets (e.g., measured in terabytes). Doing so requires specialized tools; this is the focus of this course. We shall see that many of the tools and methods familiar from introductory courses in data science are relevant here, too, and we shall begin the course with a refresher on some fundamentals. From there we will investigate big data frameworks, with an emphasis on Hadoop and Spark. As usual, we will emphasize both the fundamental theories/principles of the techniques we will explore and practical use cases with real data.\nSpecific learning objectives include:\n\nCombine elements of algorithm design, statistics, optimization, and computer science to make decisions with data.\nWork with computing tasks distributed over a cluster, especially with Hadoop and Spark.\nConvert data from various sources into storage or querying formats.\nPrepare big data for statistical analysis, visualization, and machine learning.\nEffectively utilize the Ohio Supercomputer Center interface.\nArticulate the workflow and outcomes of big data analysis for technical and non-technical audiences."
   }
 ]

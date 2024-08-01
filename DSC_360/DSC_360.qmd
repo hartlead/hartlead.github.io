@@ -137,11 +137,13 @@ The assignments for the course are divided into a few categories:
 
     -   You must (informally) discuss the data, research objective, and methods with your instructor before engaging in this work.
 
-    -   Include at least 4 professional quality images (generated through Python or R) to visually summarize your work.
+    -   Include at least 4 professional-quality images (generated through Python or R) to visually summarize your work.
 
     -   Include citations, as appropriate.
 
     -   Submit your raw data and well-commented code for review. The instructor must be able to “plug and play” to execute the code and generate your images and other results.
+
+    -   Each student may work alone or in groups of two
 
     -   At the end of the semester, each group will have some time to present their project to the class.
 
@@ -159,7 +161,25 @@ In general, no other extra credit work will be assigned.
 
 ## Collaboration Policy
 
-The field of science is almost entirely collaborative. If students wish to collaborate on solving exercises or activities outside of class, this is allowed and encouraged under the condition that you explicitly note with whom you collaborated. Each student must turn in their own copy of the work, each copy listing the collaborators. Please limit group work to two or three students. The corresponding responsibility is that each student is individually responsible for the course information. Collaboration is not allowed during exams.
+The field of science is almost entirely collaborative. If students wish to collaborate on solving exercises or activities outside of class, this is allowed and encouraged under the condition that you explicitly note with whom you collaborated. Each student must turn in their own copy of the work, each copy listing the collaborators. Please limit group work to two or three students. Each student is individually responsible for the course information. Collaboration is not allowed during exams.
+
+## Late Policy
+
+Each 24 hours, an activity or exercise is past due, it is worth one fewer point. After 72 hours, the assignment is worth zero points. Extra credit work, if applicable, isn't accepted past-due. The exams and final project will generally not be accepted late. In the case of an emergency or extended complications that would prevent exam attendance or inability to participate in the class, contact the instructor as early as possible so that other arrangements may be made.
+
+## Technology Requirements
+
+College coursework requires students to be responsible with reading and assignments, checking email and D2L frequently, and staying in regular communication with instructors. Technology access will be important for success. To participate in learning activities and complete assignments, you will need:
+
+-   Access to a working computer that has a current operating system with updates installed
+
+-   Reliable Internet access and a Mount Union email account
+
+-   A current Internet browser that is compatible with D2L
+
+Please contact the IT Help Desk at 330.829.8726 or helpdesk\@mountunion.edu if you need assistance with obtaining or using a device, any necessary software, or internet access at any time during this semester.
+
+**Please bring your laptop to class, we will make extensive use of in-class time for lab work.**
 
 ## AI Policy
 
